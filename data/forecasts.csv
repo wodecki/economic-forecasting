@@ -1,0 +1,20 @@
+id,forecast,economic_category,direction,value_numerical_from,value_numerical_to,value_unit,date_numerical,date_unit
+1,"We anticipate a 0.4% m/m increase, which will put December inflation at 1.7%.",CPI,positive,1.7,1.7,%y/y,12,month
+1,We expect food prices to point to a rise in inflation in December to 1.7% y/y.,CPI,positive,1.7,1.7,%y/y,12,month
+1,"We forecast growth at the same rate as in the first half of the month, i.e. 0.2% compared to the previous 15-day period, and 0.4% m/m.",CPI,positive,0.4,0.4,%m/m,12,month
+1,"We anticipate that the gradual rise in food prices will continue throughout the rest of 2004, or at least the first half of it.",CPI,positive,1.7,1.7,%y/y,6,month
+2,"Balcerowicz said that inflation will rise to 2-3% in 2004 (from 1.7% in December 2003), but stressed that this will be partly due to the increase in indirect taxes associated with EU accession and budget problems.",CPI,positive,2.0,3.0,%y/y,other,other
+2,"Rosati said that there is room for interest rate cuts this year, but that this is limited due to uncertainty over fiscal policy. This confirms that we can expect a further drop in rates after the adoption of the Hausner plan.",IR,decrease,0.0,0.0,pb,none,other
+3,"We forecast that food prices rose 0.4% m/m, putting inflation at 1.7% y/y in December.",CPI,positive,1.7,1.7,%y/y,12,month
+3,We expect food prices to point to 1.7% inflation in December.,CPI,positive,1.7,1.7,%y/y,12,month
+3,"We forecast growth at the same rate as in the first half of the month, i.e. 0.2% from the previous 15-day period and 0.4% m/m. This will mean an acceleration in CPI growth to 1.7% y/y from 1.6% in November.",CPI,positive,1.7,1.7,%y/y,12,month
+3,"We anticipate that the gradual rise in food prices will continue in 2004, or at least in its first half.",CPI,positive,1.7,1.7,%y/y,other,other
+4,"Despite a lower-than-expected rise in food prices in December (by 0.3% m/m on average), we expect the CPI to rise slightly to 1.7% y/y at the end of 2003, compared to 1.6% y/y in November.",CPI,positive,1.7,1.7,%y/y,12,month
+6,We expect two-three rate cuts (25 bps each) in the first half of this year.,IR,decrease,25.0,25.0,pb,6,month
+6,"We expect an acceleration in money supply growth, which is normal with rising inflation and a recovering economy.",MS,positive,0.0,0.0,none,none,none
+6,We estimate that the inflation rate rose slightly in December to 1.7% from 1.6% in November.,CPI,positive,1.7,1.7,%y/y,12,month
+6,"We forecast that wage growth will be 4% y/y (vs. 4.1% in November), while employment will most likely record a 3.4% y/y decline (after a 3.3% y/y drop in November).",W,positive,4.0,4.0,%y/y,12,month
+6,"We forecast that wage growth will be 4% y/y (vs. 4.1% in November), while employment will most likely record a 3.4% y/y decline (after a 3.3% y/y drop in November).",E,negative,3.4,3.4,%y/y,12,month
+8,we will most likely still see cautious interest rate cuts this year,IR,decrease,0.0,0.0,none,none,other
+8,growth in household deposits and cash in circulation should accelerate (the latter will reach nearly 21% y/y in December),MS,positive,21.0,21.0,%y/y,12,month
+8,the gradual recovery in loan demand is expected to continue (total loan growth of 8.7% y/y vs. 8.5% in November),MS,positive,8.7,8.7,%y/y,none,month

@@ -1,0 +1,5 @@
+pandas==2.2.3
+numpy==1.26.4
+langchain-openai==0.2.11
+langchain-core==0.3.22
+python-dotenv==1.0.1
