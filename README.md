@@ -1,5 +1,4 @@
 # Economic Forecasting with LLMs
----
 Supplementary Code and Data for "Combining generative AI and expert knowledge in economic forecasting
 
 ## Overview
